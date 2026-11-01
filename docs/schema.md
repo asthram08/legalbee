@@ -1,9 +1,5 @@
 # LegalBee Chunk Schema
 
-Every law is split into **chunks**, one chunk per lettered subsection: (a), (b), (c)...
-Never split by character count, because that breaks citations.
-
-All chunks live in `data/chunks.json` as a list of objects.
 
 ## Fields
 
